@@ -126,13 +126,51 @@ hr{
     margin: 20px 0 0 0;
 
 }
-.What-We-Offer{
+.main-section-content{
+    background: #f6b60d;
+}
+.images{
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    margin: 44px 60px;
+    
+
+}
+.image1 img{
+    width: 90%;
+    height:183 ;
+    
+
+}
+.image2 img{
+    width: 90%;
+    height:183 ;
+    
+}
+.image3 img{
+    width: 90%;
+    height:183 ;
+  
+}
+.Offer-content{
     text-align: center;
-    background-color:#f6b60d; 
+    margin: 150px 0 0 0;
+    background:#f6b60d;
 }
-hr{
-    width: 4%;
-    border: 2px solid white;
+.box1{
+    width: 5%;
+    border: 2px solid #fff;
+    margin-left: 37rem;
 }
-
-
+.image3{
+    background: #fff;
+    width: 92%;
+}
+.image2{
+    background: #fff;
+    width: 70%;
+}
+.image1{
+    background: #fff;
+    width: 80%;
+}
